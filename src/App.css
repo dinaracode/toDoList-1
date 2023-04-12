@@ -1,0 +1,57 @@
+.crossed {
+    text-decoration: line-through 2px red;
+    background-color: #f0f0f0;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.boxIn{
+    width: 90%;
+    font-size: 18px;
+    padding: 9px;
+    border-radius: 15px;
+    border: solid 0.7px grey;
+    font-family: 'Roboto', sans-serif;
+}
+
+.btn {
+    padding: 7px;
+    border: none;
+    width: 40%;
+    color: #243153;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 15px;
+    font-family: 'Roboto', sans-serif;
+    }
+
+.add {
+    background: #c8e7c5;
+    margin-top: 5px;
+}
+
+.delete {
+    background:#f3716a;
+    margin-bottom: 5px;
+}
+
+h1{
+    color: #243153;
+    font-size: 40px;
+    margin-left: 10%;
+    font-family: 'Roboto', sans-serif;
+}
+
+.done{
+    margin-left: 80%;
+}
+
+ul, li{
+    list-style: none;
+    padding: 10px;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
